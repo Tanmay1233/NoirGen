@@ -36,7 +36,7 @@
 <h3 align="center">NoirGen</h3>
 
   <p align="center">
-    A generator for discord nitro classic and boost codes with multithreading support.
+    A generator and checker for discord nitro classic and boost codes with multithreading support.
     <br />
     <a href="https://github.com/noirdevelopment/NoirGen"><strong>Explore the docs »</strong></a>
     <br />
