@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/noirdevelopment/NoirGen">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/nitro.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">NoirGen</h3>
